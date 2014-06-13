@@ -1,4 +1,4 @@
-﻿/**
+/**
  * @file UnitTest.cs
  * 
  * Attribute to mark unit test methods within a TestCase.

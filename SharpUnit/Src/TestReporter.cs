@@ -1,4 +1,4 @@
-﻿/**
+/**
  * @file TestReporter.cs
  * 
  * Base class to output the results of executed unit tests.

@@ -1,4 +1,4 @@
-﻿/**
+/**
  * @file TestResult.cs
  * 
  * Test result class. Tracks how many tests were run and how many failed.

@@ -1,4 +1,4 @@
-﻿/**
+/**
  * @file Assert.cs
  * 
  * Static assertion methods for verifying test expectations.

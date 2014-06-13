@@ -1,4 +1,4 @@
-﻿/**
+/**
  * @file TestException.cs
  * 
  * Unit testing exception.

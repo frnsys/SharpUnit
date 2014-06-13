@@ -1,4 +1,4 @@
-﻿/**
+/**
  * @file TestSuite.cs
  * 
  * Test suite class, used for running a collection of tests.

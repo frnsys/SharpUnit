@@ -1,4 +1,4 @@
-﻿/**
+/**
  * @file TestCase.cs
  *
  * This class defines a "test case."
