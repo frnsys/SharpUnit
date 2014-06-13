@@ -30,8 +30,7 @@ Integrate with Unity3D Using a DLL:
 
 Integrate with Unity3D Using the Scripts:
 - Create a folder named "SharpUnit" In your Unity3D project's "Assets" folder.
-- Copy the SharpUnit class files (*.cs) to this folder. 
-- Copy the Unity3D_TestRunner.cs and Unity3D_TestReporter.cs files to this folder.
+- Copy the SharpUnit class files (SharpUnit/Src/*.cs) to this folder.
 
 Running Tests in Unity3D:
 - Create an empty GameObject within Unity, name it TestRunner.
