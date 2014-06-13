@@ -9,7 +9,7 @@ using System;
 namespace SharpUnit
 {
     [AttributeUsage(AttributeTargets.Method, AllowMultiple = false)]
-    public class UnitTest : System.Attribute
+    public class UnitTest : Attribute
     {
         // Intentionally empty
     }
