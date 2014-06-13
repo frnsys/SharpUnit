@@ -1,6 +1,6 @@
 /**
  * @file Dummy_Test.cs
- * 
+ *
  * Unit tests for the Dummy class.
  */
 
@@ -8,7 +8,7 @@ using UnityEngine;
 using System.Collections;
 using SharpUnit;
 
-public class Dummy_Test : TestCase 
+public class Dummy_Test : TestCase
 {
     // Member values
     private Dummy m_dummy = null;   // Dummy instance for testing
@@ -18,7 +18,7 @@ public class Dummy_Test : TestCase
      */
     public override void SetUp()
     {
-        m_dummy = new Dummy(); 
+        m_dummy = new Dummy();
     }
 
     /**
@@ -26,7 +26,7 @@ public class Dummy_Test : TestCase
      */
     public override void TearDown()
     {
-        m_dummy = null; 
+        m_dummy = null;
     }
 
     /**
@@ -48,5 +48,5 @@ public class Dummy_Test : TestCase
     }
 
     // @todo add more tests to test methods of the Dummy class...
-        
+
 }
